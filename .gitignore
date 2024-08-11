@@ -1,1 +1,7 @@
 .venv/
+
+# go download this yourself at ....
+uiuc-students-by-state.csv
+
+# passwords go here
+secrets/
